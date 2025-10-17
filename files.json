@@ -33,4 +33,16 @@
       "type": "application/x-ipynb+json"
     }
   ]
+},
+    {
+      "title": "线上销售看板-脱敏",
+      "desc": "实习期间搭建的看板。",
+      "tags": [
+        "观远BI",
+        "Data"
+      ],
+      "href": "files/pandas-cleaning.ipynb",
+      "type": "application/x-ipynb+json"
+    }
+  ]
 }
