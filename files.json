@@ -10,7 +10,8 @@
         "Notes"
       ],
       "href": "files/deeplearning-notes.pdf",
-      "type": "application/pdf"
+      "type": "application/pdf",
+      "updated": "2025-10-17"
     },
     {
       "title": "SQL 常用范式与窗口函数示例",
@@ -20,7 +21,8 @@
         "Data"
       ],
       "href": "files/sql-cheatsheet.pdf",
-      "type": "application/pdf"
+      "type": "application/pdf",
+      "updated": "2025-08-31"
     },
     {
       "title": "Pandas 数据清洗示例",
@@ -30,19 +32,8 @@
         "Data"
       ],
       "href": "files/pandas-cleaning.ipynb",
-      "type": "application/x-ipynb+json"
-    }
-  ]
-},
-    {
-      "title": "线上销售看板-脱敏",
-      "desc": "实习期间搭建的看板。",
-      "tags": [
-        "观远BI",
-        "Data"
-      ],
-      "href": "files/pandas-cleaning.ipynb",
-      "type": "application/x-ipynb+json"
+      "type": "application/x-ipynb+json",
+      "updated": "2025-07-15"
     }
   ]
 }

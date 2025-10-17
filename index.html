@@ -3,35 +3,29 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>我的学习资料库</title>
-  <meta name="description" content="个人学习文件、资料与笔记集合，可搜索、按标签筛选。">
-  <link rel="preload" href="assets/style.css" as="style">
+  <title>我的作品与学习资料 · 首页直出</title>
+  <meta name="description" content="一进首页即可浏览所有作品与学习资料，按更新时间倒序展示。">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 <header class="wrap topbar">
-  <h1>📚 我的学习资料库</h1>
+  <h1>📚 我的作品与学习资料</h1>
   <div class="actions">
-    <input id="q" class="search" type="search" placeholder="搜索标题/描述/标签…" aria-label="搜索">
     <button id="themeToggle" class="btn" title="深浅色切换">🌓</button>
   </div>
 </header>
 
 <main class="wrap">
   <section class="intro card">
-    <p>这里是我整理的学习文件，包含 PDF、PPT、代码示例与参考文档。支持关键词搜索与按标签筛选。</p>
-    <p class="muted">更新日期：<span id="updated"></span></p>
-  </section>
-
-  <section class="filters">
-    <div id="tags" class="tags"></div>
+    <p>首页直接展示所有文件（最新更新排在最前）。</p>
+    <p class="muted">最后更新：<span id="updated"></span></p>
   </section>
 
   <section id="list" class="grid"></section>
 </main>
 
 <footer class="wrap footer">
-  <small>© <span id="year"></span> 我的学习资料库 · 由静态页面构建，可托管在 GitHub Pages / Vercel / Netlify</small>
+  <small>© <span id="year"></span> 我的作品与学习资料 · 纯静态网页 · 适配 GitHub Pages / Vercel / Netlify</small>
 </footer>
 
 <script src="assets/script.js"></script>
