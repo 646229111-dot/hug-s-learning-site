@@ -1,0 +1,36 @@
+{
+  "updated": "2025-10-17",
+  "items": [
+    {
+      "title": "深度学习笔记（卷积与注意力）",
+      "desc": "个人学习整理，含公式与示例。",
+      "tags": [
+        "AI",
+        "DL",
+        "Notes"
+      ],
+      "href": "files/deeplearning-notes.pdf",
+      "type": "application/pdf"
+    },
+    {
+      "title": "SQL 常用范式与窗口函数示例",
+      "desc": "适合数据分析面试前速查。",
+      "tags": [
+        "SQL",
+        "Data"
+      ],
+      "href": "files/sql-cheatsheet.pdf",
+      "type": "application/pdf"
+    },
+    {
+      "title": "Pandas 数据清洗示例",
+      "desc": "从缺失值到分组聚合的常见套路。",
+      "tags": [
+        "Python",
+        "Data"
+      ],
+      "href": "files/pandas-cleaning.ipynb",
+      "type": "application/x-ipynb+json"
+    }
+  ]
+}
