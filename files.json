@@ -2,38 +2,36 @@
   "updated": "2025-10-17",
   "items": [
     {
-      "title": "深度学习笔记（卷积与注意力）",
-      "desc": "个人学习整理，含公式与示例。",
-      "tags": [
-        "AI",
-        "DL",
-        "Notes"
-      ],
-      "href": "files/deeplearning-notes.pdf",
+      "title": "Y24 1月 白片市场分析报告",
+      "desc": "分析了2024年1月白片类产品在市场中的销售走势与竞争格局。",
+      "tags": ["市场分析", "数据报告"],
+      "href": "files/Y24 1月 新路白片市场分析.xlsx",
+      "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "updated": "2025-10-17"
+    },
+    {
+      "title": "小红书商销投放看板",
+      "desc": "展示了商销活动在小红书平台的投放效果与数据表现。",
+      "tags": ["投放分析", "营销数据"],
+      "href": "files/小红书商销投放看板.pdf",
       "type": "application/pdf",
       "updated": "2025-10-17"
     },
     {
-      "title": "SQL 常用范式与窗口函数示例",
-      "desc": "适合数据分析面试前速查。",
-      "tags": [
-        "SQL",
-        "Data"
-      ],
-      "href": "files/sql-cheatsheet.pdf",
-      "type": "application/pdf",
-      "updated": "2025-08-31"
+      "title": "Y24 618 大促数据分析",
+      "desc": "2024年618大促期间的核心销售数据、用户转化与趋势洞察。",
+      "tags": ["电商", "大促分析"],
+      "href": "files/新路Y24 618.xlsx",
+      "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "updated": "2025-10-17"
     },
     {
-      "title": "Pandas 数据清洗示例",
-      "desc": "从缺失值到分组聚合的常见套路。",
-      "tags": [
-        "Python",
-        "Data"
-      ],
-      "href": "files/pandas-cleaning.ipynb",
-      "type": "application/x-ipynb+json",
-      "updated": "2025-07-15"
+      "title": "线上销售看板（脱敏）",
+      "desc": "可视化展示了主要销售渠道的核心指标与走势（数据已脱敏）。",
+      "tags": ["销售分析", "可视化"],
+      "href": "files/线上销售看板_脱敏.pdf",
+      "type": "application/pdf",
+      "updated": "2025-10-17"
     }
   ]
 }
